@@ -7,7 +7,7 @@
 
 # Site settings
 title: 船长的航海志
-brief-intro: Android and Python Coder
+brief-intro:  Java and Python Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -19,7 +19,7 @@ facebook_username: #gaohaoyang.water
 github_username:  crazy-captain
 email: davidsun_home@163.com
 weibo_username: davidsun
-zhihu_username: davidsun
+zhihu_username: davAndroididsun
 linkedIn_username: davidsun
 dribbble_username:
 
